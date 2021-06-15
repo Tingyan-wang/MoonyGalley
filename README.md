@@ -1,2 +1,2 @@
-# MoonyGalley
-MoonyGalley
+# MoonyGallery
+MoonyGallery
