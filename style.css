@@ -1,0 +1,29 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+canvas {
+    display: block;
+}
+
+#container {
+    display: none;
+    position: fixed;
+    text-align: center;
+    width: 100vw;
+}
+
+#container .item {
+    background-color: #333333;
+    border-radius: 5px;
+    color: #ffffff;
+    display: inline-block;
+    height: 45px;
+    width: 480px;
+}
